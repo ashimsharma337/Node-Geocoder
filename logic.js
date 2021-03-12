@@ -1,5 +1,6 @@
 
 var NodeGeocoder = require("node-geocoder");
+var options = require("./key.js");
 
 var nodeArgs = process.argv;
 
